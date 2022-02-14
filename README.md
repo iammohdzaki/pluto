@@ -1,3 +1,9 @@
+>
+> Pluto 2.0 is moved to [new repository](https://github.com/plutolib/pluto).
+>
+> This repository is not longer used & is archived.
+>
+
 # Pluto
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.mocklets/pluto/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.mocklets/pluto)
 [![CLA assistant](https://cla-assistant.io/readme/badge/mocklets/pluto)](https://cla-assistant.io/mocklets/pluto)
